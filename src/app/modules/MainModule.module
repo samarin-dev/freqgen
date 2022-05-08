@@ -1,0 +1,41 @@
+{
+  "props": [],
+  "components": {
+    "player3": {
+      "type": "script\\MediaPlayerScript",
+      "x": 464,
+      "y": 112,
+      "props": {
+        "loop": true,
+        "autoplay": "1",
+        "volume": "1.0",
+        "balance": "0.0",
+        "rate": "1.0"
+      }
+    },
+    "playerAlt": {
+      "type": "script\\MediaPlayerScript",
+      "x": 224,
+      "y": 96,
+      "props": {
+        "loop": true,
+        "autoplay": "1",
+        "volume": "1.0",
+        "balance": "0.0",
+        "rate": "1.0"
+      }
+    },
+    "player": {
+      "type": "script\\MediaPlayerScript",
+      "x": 160,
+      "y": 96,
+      "props": {
+        "loop": true,
+        "autoplay": "1",
+        "volume": "1.0",
+        "balance": "0.0",
+        "rate": "1.0"
+      }
+    }
+  }
+}

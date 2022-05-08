@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<behaviours>
+  <target id="panel">
+    <behaviour color="#333333" offsetX="0" offsetY="0" radius="10" type="behaviour\custom\InnerShadowEffectBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="panelAlt">
+    <behaviour color="#333333" offsetX="0" offsetY="0" radius="10" type="behaviour\custom\InnerShadowEffectBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="panel3">
+    <behaviour color="#333333" offsetX="0" offsetY="0" radius="10" type="behaviour\custom\InnerShadowEffectBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="image">
+    <behaviour color="black" offsetX="0" offsetY="0" radius="40" type="behaviour\custom\InnerShadowEffectBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="imageAlt">
+    <behaviour brightness="0" contrast="0" hue="-0.098765432098765" saturation="0.98765432098765" type="behaviour\custom\ColorAdjustEffectBehaviour" when="ALWAYS"/>
+    <behaviour delay="0" duration="100" offsetX="2" offsetY="2" repeatCount="-1" type="behaviour\custom\VibrationAnimationBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="image3">
+    <behaviour brightness="0" contrast="0" hue="-0.87925323697681" saturation="0.98765432098765" type="behaviour\custom\ColorAdjustEffectBehaviour" when="ALWAYS"/>
+    <behaviour delay="0" duration="100" offsetX="2" offsetY="2" repeatCount="-1" type="behaviour\custom\VibrationAnimationBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="image4">
+    <behaviour brightness="1" contrast="0" hue="0.36464920204758" saturation="0.98765432098765" type="behaviour\custom\ColorAdjustEffectBehaviour" when="ALWAYS"/>
+    <behaviour delay="0" duration="100" offsetX="2" offsetY="2" repeatCount="-1" type="behaviour\custom\VibrationAnimationBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="button5">
+    <behaviour color="#333333" offsetX="0" offsetY="0" radius="10" type="behaviour\custom\InnerShadowEffectBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="button4">
+    <behaviour color="#333333" offsetX="0" offsetY="0" radius="10" type="behaviour\custom\InnerShadowEffectBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="button6">
+    <behaviour color="#333333" offsetX="0" offsetY="0" radius="10" type="behaviour\custom\InnerShadowEffectBehaviour" when="ALWAYS"/>
+  </target>
+  <target id="button7">
+    <behaviour color="#333333" offsetX="0" offsetY="0" radius="10" type="behaviour\custom\InnerShadowEffectBehaviour" when="ALWAYS"/>
+  </target>
+</behaviours>
